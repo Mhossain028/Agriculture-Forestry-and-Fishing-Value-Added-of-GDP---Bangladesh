@@ -1,0 +1,3 @@
+Source: https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS?end=2018&locations=BD&start=1990&view=chart
+
+This is a prediction of Agriculture, Forestry, and Fishing Value Added (% of GDP) - Bangladesh
